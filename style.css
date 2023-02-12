@@ -12,7 +12,7 @@ body {
 
 /** Header styles **/
 .header {
-  background-image: url(https://images.unsplash.com/photo-1455267847942-f4fdb784f0c5?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb);
+  background-image: url(img/cake.jpg);
   height: 400px;
   background-position: center center;
 }
@@ -111,7 +111,7 @@ h5 {
   font-size: 20px;
   line-height: .2em;
   font-weight: 300;
-}
+}https://fonts.googleapis.com/css?family=Covered+By+Your+Grace|Raleway:100,500,600,800
 
 /* Page elements */
 ul {
